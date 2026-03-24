@@ -6,7 +6,7 @@
   "description": "Polished sleeping logs for Fabric 1.21.11.",
   "authors": ["Drew Ard"],
   "contact": {
-    "sources": "https://github.com/yourname/sleeplog"
+    "sources": "https://github.com/Laxdude22/sleeplog"
   },
   "license": "GPL-3.0-or-later",
   "environment": "server",
