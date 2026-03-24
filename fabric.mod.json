@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "sleeplog",
+  "version": "${version}",
+  "name": "Sleep Log",
+  "description": "Polished sleeping logs for Fabric 1.21.11.",
+  "authors": ["Drew Ard"],
+  "contact": {
+    "sources": "https://github.com/yourname/sleeplog"
+  },
+  "license": "GPL-3.0-or-later",
+  "environment": "server",
+  "icon": "assets/sleeplog/icon.png",
+  "entrypoints": {
+    "main": [
+      "com.example.sleeplog.SleepLogMod"
+    ]
+  },
+  "mixins": [
+    "sleeplog.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}
