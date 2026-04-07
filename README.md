@@ -31,7 +31,7 @@ gradle build --refresh-dependencies
 Output:
 
 ```text
-build/libs/sleeplog-1.2.0.jar
+build/libs/sleeplog-1.3.6.jar
 ```
 
 ## License
