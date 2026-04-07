@@ -18,9 +18,9 @@ SleepLog is a lightweight Fabric server mod that logs player sleep activity and 
 
 ## Requirements
 
-- Minecraft 1.21.11
+- Minecraft
 - Fabric Loader
-- Java 21
+- Java
 
 ## Build
 
